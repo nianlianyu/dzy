@@ -31,7 +31,7 @@
                     <td><input id="sub1" type="submit" value="登录"></td>
                 </tr>
             </table>
-        <a href="javascript:tobeBig();changeImg2();">忘记密码？</a>
+<%--        <a href="javascript:tobeBig();changeImg2();">忘记密码？</a>--%>
     </form>
     <div id="reset">
         <div id="nav">

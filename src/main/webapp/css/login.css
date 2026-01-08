@@ -12,7 +12,7 @@ html{
     margin: 0px;
     width: 99%;
     height: 99%;
-    background-image:url("../img/bgc.jpg");
+    background-image:url("../img/bgc2.JPG");
     background-size: cover;
 }
 
@@ -22,7 +22,7 @@ table{
 }
 
 h2{
-    color: whitesmoke;
+    color: #000000;
     position: absolute;
     z-index: 11;
     top: 170px;
@@ -32,7 +32,7 @@ h2{
 }
 
 a{
-    color: whitesmoke;
+    color: #090909;
     position: absolute;
     z-index: 11;
     top:490px;
@@ -74,7 +74,7 @@ a:hover{
     width: 240px;
     font-size: 20px;
     font-family: Arial;
-    color: white;
+    color: #252525;
     letter-spacing: 2px;
     text-align: center;
     display: inline-block;
@@ -84,7 +84,7 @@ a:hover{
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
-    border-bottom-color: white;
+    border-bottom-color: #202020;
 }
 #inp11{
     position: relative;
@@ -93,7 +93,7 @@ a:hover{
     width: 140px;
     font-size: 20px;
     font-family: Arial;
-    color: white;
+    color: #232323;
     letter-spacing: 2px;
     text-align: center;
     display: block;
@@ -103,7 +103,7 @@ a:hover{
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
-    border-bottom-color: white;
+    border-bottom-color: #1c1c1c;
 }
 
 
@@ -117,7 +117,7 @@ a:hover{
 
 hr{
     height: 1px;
-    background-color: white;
+    background-color: #000000;
 }
 
 #sub1{
@@ -130,7 +130,7 @@ hr{
     top:-80px;
     border-radius: 10px;
     background-color: #43ae48;
-    color: white;
+    color: #1e1e1e;
     font-size: large;
     font-family: Andalus;
     text-align: center;
@@ -157,7 +157,7 @@ hr{
 
 #reset{
     z-index: 9;
-    background-color: #dddddd;
+    background-color: #1e1e1e;
     border-radius: 10px;
     position: absolute;
     border: 1px;
@@ -180,7 +180,7 @@ h3{
     line-height: 20px;
     text-align: center;
     font-family: Arial;
-    color: #5a5a5a;
+    color: #000000;
 }
 #close{
     position: relative;
@@ -239,7 +239,7 @@ h3{
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
-    border-bottom-color: #484848;
+    border-bottom-color: #000000;
 }
 
 #sub2{
@@ -254,7 +254,7 @@ h3{
     height: 40px;
     border-radius: 10px;
     background-color: #43ae48;
-    color: whitesmoke;
+    color: #2b2b2b;
     font-size: large;
     font-family: Andalus;
     text-align: center;
@@ -301,7 +301,7 @@ h3{
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
-    border-bottom-color: #484848;
+    border-bottom-color: #000000;
 }
 
 #sp1{
